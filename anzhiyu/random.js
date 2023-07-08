@@ -1,0 +1,1 @@
+var posts=["2023/07/08/t/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
