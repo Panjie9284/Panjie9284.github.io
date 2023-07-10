@@ -1,1 +1,1 @@
-var posts=["2023/07/09/opencv/","2023/07/10/note-make/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/07/09/opencv/","2023/07/10/note-make/","2023/07/10/python-debug/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
