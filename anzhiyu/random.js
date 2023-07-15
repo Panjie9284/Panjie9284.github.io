@@ -1,1 +1,1 @@
-var posts=["2023/07/09/opencv/","2023/07/10/note-make/","2023/07/10/python-debug/","2023/07/11/近期总结/","2023/07/12/python-note/","2023/07/15/demo1/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/07/09/opencv/","2023/07/10/note-make/","2023/07/10/python-debug/","2023/07/11/近期总结/","2023/07/12/python-note/","2023/07/15/demo1/","2023/07/15/Threshold/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
