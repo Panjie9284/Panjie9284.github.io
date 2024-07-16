@@ -1,0 +1,40 @@
+- class_name: 自己的友链
+  class_desc: 我的Github
+  flink_style: anzhiyu
+  link_list:
+    - name: Janpie
+      hundredSuffix: ""
+      link: https://github.com/Panjie9284
+      avatar: https://avatars.githubusercontent.com/u/110399566?s=400&u=2ad970fd5debe4f1dbf487f115280c5683b41f62&v=4
+      descr: 好好学习，天天向上
+
+- class_name: 小伙伴的Blog
+  flink_style: flexcard
+  link_list:
+    - name: brilliantbird
+      hundredSuffix: ""
+      link: https://brilliantbird.github.io/
+      avatar: https://avatars.githubusercontent.com/u/124502791?v=4
+      descr: ''
+      siteshot: https://pic1.zhimg.com/80/v2-0b7e12a3277a995292bd4bdc3df82950_720w.webp
+
+    - name: GuociCai
+      hundredSuffix: ""
+      link: https://cgc12123.github.io/
+      avatar: https://avatars.githubusercontent.com/u/93080289?v=4
+      descr: ''
+      siteshot: https://pic1.zhimg.com/80/v2-0b7e12a3277a995292bd4bdc3df82950_720w.webp
+
+    - name: YUYUYU
+      hundredSuffix: ""
+      link: https://123-yuyuyu.github.io/
+      avatar: https://avatars.githubusercontent.com/u/105103225?v=4
+      descr: ''
+      siteshot: https://pic1.zhimg.com/80/v2-0b7e12a3277a995292bd4bdc3df82950_720w.webp
+
+    - name: Chen
+      hundredSuffix: ""
+      link: https://chenxmjm.github.io/
+      avatar: https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2022%2F0303%2Feeabf41cj00r84nam005od200qo00qog003o003o.jpg&thumbnail=660x2147483647&quality=80&type=jpg
+      descr: ''
+      siteshot: https://pic1.zhimg.com/80/v2-0b7e12a3277a995292bd4bdc3df82950_720w.webp
