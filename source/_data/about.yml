@@ -1,0 +1,93 @@
+- class_name: 关于页
+  subtitle: 好好学习，天天向上！
+  avatarImg: https://avatars.githubusercontent.com/u/110399566?s=400&u=2ad970fd5debe4f1dbf487f115280c5683b41f62&v=4
+  name: Panjie
+  description: 是一名 学生、前沿科技爱好者
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 体验
+  helloAbout: Hello，你好!
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+    
+
+  careers:
+    tips: 生涯
+    title: 无限进步
+    item:
+      - JMU,通信工程工程专业
+    # img: https://pic3.zhimg.com/80/v2-98b223a74d8edb281326fc0d9b8c99c2_720w.webp
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2003
+    selfInfoTips2: 集美大学信息学院
+    selfInfoContent2: 通信工程
+    selfInfoTips3: 现在职业
+    selfInfoContent3: 大二学生👨‍🎓
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国，厦门市
+    background: https://pic3.zhimg.com/80/v2-98b223a74d8edb281326fc0d9b8c99c2_720w.webp
+    backgroundDark: https://pic4.zhimg.com/80/v2-7aac4ff873dfc427fbd181707875df07_720w.webp
+  personalities:
+    photo_url: https://pic4.zhimg.com/v2-7aac4ff873dfc427fbd181707875df07_b.jpg
+    author_name: 物流师
+    personality_type: ISTJ-T
+    personality_img: https://pic1.zhimg.com/80/v2-ac82f22840458423dc88da66f95f52f8_720w.webp
+    name_url: https://www.16personalities.com/ch/istj-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 好好学习，
+    maxim_bottom: 天天向上。
+  buff:
+    buff_tips: 喜欢
+    buff_top: 番茄肥牛 番茄炒鸡蛋
+    buff_bottom: 看看有意义番剧
+  game:
+    game_tips: 爱好游戏
+    game_title: 原神（现已摆烂，偶尔上号）
+    game_uid: "UID: 177123528"
+    game_bg: https://bu.dusays.com/2023/04/22/64433bf26e25d.webp
+  comic:
+    comic_tips: 喜欢的番剧
+    comic_title: 追番
+    comic_list:
+      - name: 碧蓝之海
+        href: https://www.bilibili.com/bangumi/media/md102312
+        cover: https://picx.zhimg.com/v2-1e253c55ad5e84ed1e966b37b2b9dca1.jpg?source=57bbeac9
+      - name: 咒术回战
+        href: https://www.bilibili.com/bangumi/media/md28229899/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bu.dusays.com/2023/05/24/646db4398832e.webp
+      - name: 紫罗兰永恒花园
+        href: https://www.bilibili.com/bangumi/media/md8892/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bu.dusays.com/2023/05/24/646db43983d99.webp
+      - name: 非自然死亡
+        href: https://www.bilibili.com/bangumi/media/md85652
+        cover: https://picx.zhimg.com/v2-e0068218522ddc53b54b9ce21bc8da7e_1440w.jpg?source=172ae18b
+      - name: 刀剑神域
+        href: https://www.bilibili.com/bangumi/media/md24755609
+        cover: https://img.3dmgame.com/uploads/allimg/160705/322_160705141519_1_lit.jpg
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://pic2.zhimg.com/80/v2-cf81411aed04112b471d18952c0e65b7_720w.webp
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: 日语、民谣、乡村音乐
+    music_bg: https://pic3.zhimg.com/80/v2-83746a8d97a0b33a8d90a395caadb5e2_720w.webp
+    music_link: https://music.163.com/#/playlist?id=872823430
+  reward_list:
+    
+  extra: false
